@@ -9,6 +9,7 @@ app.use(cors());
 // Sample data for the API
 const data = {
   message: 'Hello from the backend API! kkkk',
+  timestamp: new Date()
   
 };
 
